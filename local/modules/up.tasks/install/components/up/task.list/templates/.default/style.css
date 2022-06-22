@@ -1,0 +1,31 @@
+.task-list {
+	display: flex;
+	align-items: center;
+	max-width: 100%;
+	flex-wrap: wrap;
+	margin: 8px;
+}
+
+.task-card {
+	height: 150px;
+	width: 200px;
+	border: 1px dashed #000;
+	margin: 8px;
+	text-align: center;
+	position: relative;
+}
+
+.task-image {
+	height: 60%;
+	width: 100%;
+	border-bottom: 1px dashed #000;
+	margin: 8px;
+}
+
+.task-text{
+	white-space: nowrap;
+	overflow: hidden;
+	background: #fc0;
+	padding: 5px;
+	text-overflow: ellipsis; /* Добавляем многоточие */
+}

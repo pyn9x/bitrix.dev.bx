@@ -1,0 +1,10 @@
+<?php
+
+$MESS['UP_TASKS_MODULE_INSTALL_NAME'] = 'Tasks';
+$MESS['UP_TASKS_MODULE_INSTALL_DESCRIPTION'] = 'Демонстрационный модуль для изучения структуры';
+$MESS['UP_TASKS_MODULE_INSTALL_TITLE'] = 'Установка модуля';
+$MESS['UP_TASKS_MODULE_UNINSTALL_TITLE'] = 'Удаление модуля';
+
+$MESS["TASK_ENTITY_ID_FIELD"] = "ID";
+$MESS["TASK_ENTITY_TEXT_FIELD"] = "TEXT";
+$MESS["TASK_ENTITY_DATE_FIELD"] = "DATE";
